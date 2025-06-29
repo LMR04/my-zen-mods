@@ -1,0 +1,6 @@
+#back-button,
+#forward-button,
+#reload-button,
+#unified-extensions-button {
+    display: none !important;
+}
